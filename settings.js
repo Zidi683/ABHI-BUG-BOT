@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923252025304"
-global.ownername = "Fhadi yt"
+global.ownernomer = "923247116683"
+global.ownername = "Zidi"
 global.ytname = "YT: Comedy Melody CH"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Kerala, Idukki"
 
-global.ownernumber = '923252025304'  //creator number
-global.ownername = 'Fhadi yt' //owner name
+global.ownernumber = '923247116683'  //creator number
+global.ownername = 'zidi' //owner name
 global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
